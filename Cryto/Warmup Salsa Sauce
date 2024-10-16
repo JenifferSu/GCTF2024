@@ -1,4 +1,4 @@
-Cryto -Warmup Salsa Sauce 
+*Cryto -Warmup Salsa Sauce*
 
 Encrypted flag: fa1c26b66ad926ab75cd51524f05ec08f7f3160c74bec57f8aec3f7cace6fbb7370923e8c540673f657dada9e9540101d7f4dc0b6627f147fc47627a244c88b2ea6c3340
 Encrypted text: fa1c26b66ad926ab45cb05575b0ab90fcdf1060d72bfba6f90aa076cbcf2f3aa311a13fc800638382570bcbee142001290f1d41d3761e315b91730663c2cd8e1fe7a25482ce0cd69745028635ef5dae54282f162e448fe
@@ -11,3 +11,7 @@ keystream=ciphertext⊕plaintext
 To decrypt the flag, we XOR the derived keystream with the encrypted flag:
 flag=encrypted flag⊕keystream
 Here is the Python code used to perform the decryption:
+````
+flag1 = pow(c1, d1, n1)  
+flag2 = pow(c2, d2, n2)  
+````
