@@ -1,5 +1,5 @@
 # GCTF2024
-We solved most questions in Forensic, Cryto and Misc Category and got the Best Write Up Prize &amp; 5TH Place in the Competition.
+Our team Anonymous solved most questions in Forensic, Cryto and Misc Category and got the Best Write Up Prize &amp; 5TH Place in the Competition.
 ![Cert](https://github.com/user-attachments/assets/8518640f-5774-41b4-a892-e2929d9eb7cf)
 
 Challenge Solved:
