@@ -4,3 +4,6 @@ Our team Anonymous solved most questions in Forensic, Cryto and Misc Category an
 
 Challenge Solved:
 ![challenge solved](https://github.com/user-attachments/assets/854ca0b0-5df1-4baf-ba9f-69d1e45d59b1)
+
+View Write up Here:
+https://github.com/JenifferSu/GCTF2024/blob/main/GCTF2024%20Writeup%5BAnonymous%5D.pdf
