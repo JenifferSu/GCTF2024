@@ -9,4 +9,5 @@ View Write up Here:
 https://github.com/JenifferSu/GCTF2024/blob/main/GCTF2024%20Writeup%5BAnonymous%5D.pdf
 
 Medium:
-https://medium.com/@jsukli20030412/ictf-2024-write-up-part-1-osint-88a3cef6fc32
+https://medium.com/@jsukli20030412/gctf-2024-write-up-dde8714cdec1
+
